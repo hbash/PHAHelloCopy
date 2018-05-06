@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PHAHello", "PHAHello\PHAHello.csproj", "{AEE22A36-F0DD-4564-BF52-ED47E69A162E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PHAHelloWeb", "PHAHelloWeb\PHAHelloWeb.csproj", "{688E3596-150A-4B05-B950-C1ADE7FAD18A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEE22A36-F0DD-4564-BF52-ED47E69A162E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEE22A36-F0DD-4564-BF52-ED47E69A162E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEE22A36-F0DD-4564-BF52-ED47E69A162E}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{AEE22A36-F0DD-4564-BF52-ED47E69A162E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEE22A36-F0DD-4564-BF52-ED47E69A162E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEE22A36-F0DD-4564-BF52-ED47E69A162E}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{688E3596-150A-4B05-B950-C1ADE7FAD18A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{688E3596-150A-4B05-B950-C1ADE7FAD18A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{688E3596-150A-4B05-B950-C1ADE7FAD18A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{688E3596-150A-4B05-B950-C1ADE7FAD18A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5805844B-7280-413C-A4EA-521CCE6F2E25}
+	EndGlobalSection
+EndGlobal
